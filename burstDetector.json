@@ -3,7 +3,7 @@
   "id_name": "burstDetector",
   "category": "Analyze",
   "description": "Detect bursts of events within event time series data",
-  "icon": "linechart",
+  "icon": "chrono",
   "help_url": "modules/analyze/burst-detector",
   "parameters": [
     {
